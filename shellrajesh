@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# simple bash command
+echo "Things are only impossible until they are not."
